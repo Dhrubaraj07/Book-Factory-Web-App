@@ -4,8 +4,8 @@ And adding comments and understandings of already read books to have to a quick 
 
 Tech Stack Used:-
 
-Backend-SpringBoot framework,JPA,Hibernate
+Backend-SpringBoot framework,Spring JDBC
 
-Frontend-Bootstrap 5,Thymeleaf Framework
+Frontend-Bootstrap 5, JSP/Thymleaf
 
 Database-Mysql
